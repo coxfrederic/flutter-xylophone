@@ -4,7 +4,9 @@ This was my own added interpretation for adding complexity to the module, while 
 
 Thanks to https://twitter.com/jikiwiki for helping me on the ChangeNotifier for updating the progressbar.
 
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+Check https://twitter.com/coxfrederic/status/1289284579086434305 for a demo video
+
+
 
 # Xylophone 🎹
 
